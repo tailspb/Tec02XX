@@ -1,0 +1,12 @@
+VARIANTE_4X4		KEYWORD1
+VARIANTE_4X2		KEYWORD1
+tecladoIniciar		KEYWORD2
+extraerCaracteres	KEYWORD2
+extraerCaracteres	KEYWORD2
+primerCaracter		KEYWORD2
+primerCaracter		KEYWORD2
+numBotonesActivos	KEYWORD2
+numBotonesActivos	KEYWORD2
+valorTeclado		KEYWORD2
+valorTeclado		KEYWORD2
+Tec02XX			KEYWORD3
