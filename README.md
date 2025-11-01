@@ -14,5 +14,7 @@ agradesco mucho su atencion, favor de apoyar este y mas proyectos, de codigo
 abierto
 [MANIGSER](https://sites.google.com/view/manigser/inicio/)
 
+pueden encontrar la hoja de datos en la carpeta raiz del repositorio 
+
 ## License
 Licencia BSD, todo el texto anterior debe incluirse en cualquier redistribución.
